@@ -114,3 +114,7 @@ The page opens in Traditional Chinese. `?lang=en` opens it in English and `?lang
 node --test tests/*.test.mjs
 python3 -m http.server 8000   # keeps running; open http://localhost:8000/
 ```
+
+## License
+
+Released under the [MIT License](LICENSE). © 2026 Agentic System Lab.

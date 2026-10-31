@@ -114,3 +114,7 @@ Agent Engineering Lab 是「學習型組織」的實作載體：讓學習不只�
 node --test tests/*.test.mjs
 python3 -m http.server 8000   # 會持續執行；打開 http://localhost:8000/
 ```
+
+## 授權
+
+採用 [MIT 授權](LICENSE) 釋出。© 2026 Agentic System Lab。
